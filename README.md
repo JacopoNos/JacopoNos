@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @JacopoNos
 - 👀 I’m a IT Engineer @ Fiorital SpA (Venice, Italy). I'm interested in programming Mobile Application, Cybersecurity and Crypto World.
 - 🌱 I’m currently learning Frontend and Backend languages like React and Java. 
-- 💞️ I’m looking to collaborate with anyone who want to play with me :)
 - 📫 How to reach me: jnos@hotmail.it
 
 <!---
